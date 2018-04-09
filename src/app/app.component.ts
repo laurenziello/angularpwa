@@ -10,7 +10,7 @@ export class AppComponent  {
   title = 'notifiche';
   test: any;
 
-  private VAPID_PUBLIC_KEY = 'BDNmu_6uDPDF1hj0UdH8TXTJrF3NDU2jBBFVj-wK3LO4_19eptc4_kHXdix3Ejm0pw6zbTwxjay9SfTER3yGExI';
+  private VAPID_PUBLIC_KEY = 'BMEitf33t5z7NaHUsECq_04UefRRT-y9dWn0bQ2OLgh_Wq-K7Uz8lFwCuz_rMNMjqyMWarLufHlIHZtImMTg4ys';
   constructor(private swPush: SwPush) {
 
   }
